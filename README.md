@@ -62,4 +62,3 @@ Essential Questions
 
 ## Wrap Up: Git push and publish the webpage
 
-## Canvas Assignments
